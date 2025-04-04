@@ -9,9 +9,10 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "vite": "^4.2.0"
+    "vite": "^6.2.5"
   },
   "dependencies": {
+    "@tonejs/midi": "^2.0.28",
     "sfumato": "^0.1.2"
   }
 }
